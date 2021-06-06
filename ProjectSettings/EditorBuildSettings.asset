@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: db3d394f8baa9404aaeca4772ab8aebd
+  - enabled: 0
+    path: Assets/SimpleNaturePack/Scenes/SimpleNaturePack_Demo.unity
+    guid: 5e7af4bd95ac53a4cb784a9eedf8f6f9
+  - enabled: 1
+    path: Assets/menuDetalle.unity
+    guid: f7564914aa40de74c99cadc5e3be766d
+  - enabled: 1
+    path: Assets/menuTallas.unity
+    guid: 525612c41c8f82b4db1263d3ac995555
+  m_configObjects: {}
